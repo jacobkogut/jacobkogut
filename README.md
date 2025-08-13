@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student at McGill University (Minor in Aerospace Engineering) passionate about **low-latency systems**, **embedded development**, and **aerospace software**.
 
-I’ve built everything from **latency-sensitive trading infrastructure** to **mission control systems for rockets**, and I love tackling performance-critical problems — whether that’s squeezing microseconds out of a C++ hot path or pushing telemetry sampling rates to the limit.
+I’ve built everything from **latency-sensitive trading infrastructure** to **mission control systems for rockets**, and I love tackling performance-critical problems, whether that’s squeezing microseconds out of a C++ hot path or pushing telemetry sampling rates to the limit.
 
 💻 **Current interests:**  
 - Modern C++ & systems programming  
