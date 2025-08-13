@@ -1,4 +1,4 @@
-# Hey, I'm Jake 👋
+# Hey, I'm Jacob 👋
 
 I'm a Software Engineering student at McGill University (Minor in Aerospace Engineering) passionate about **low-latency systems**, **embedded development**, and **aerospace software**.
 
@@ -16,4 +16,4 @@ I’ve built everything from **latency-sensitive trading infrastructure** to **m
 - Wireless IoT sound sensor with BLE & FreeRTOS
 
 📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE) • [GitHub](https://github.com/YOUR-USERNAME)
+[LinkedIn](https://www.linkedin.com/in/jake-kogut/)
