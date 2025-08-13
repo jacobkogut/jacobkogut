@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Jake 👋
 
-<!--
-**jacobkogut/jacobkogut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at McGill University (Minor in Aerospace Engineering) passionate about **low-latency systems**, **embedded development**, and **aerospace software**.
 
-Here are some ideas to get you started:
+I’ve built everything from **latency-sensitive trading infrastructure** to **mission control systems for rockets**, and I love tackling performance-critical problems — whether that’s squeezing microseconds out of a C++ hot path or pushing telemetry sampling rates to the limit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Current interests:**  
+- Modern C++ & systems programming  
+- Embedded microcontrollers (FreeRTOS, ARMv7)  
+- Aerospace & robotics software  
+- Performance profiling and optimization  
+
+🚀 **Notable projects & work:**  
+- Market data tooling for an algorithmic trading firm  
+- Avionics software for the McGill Rocket Team  
+- Wireless IoT sound sensor with BLE & FreeRTOS
+
+📫 **Let’s connect:**  
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE) • [GitHub](https://github.com/YOUR-USERNAME)
