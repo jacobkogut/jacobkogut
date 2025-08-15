@@ -1,6 +1,6 @@
 [submodule "groundstation-backend-2025"]
-    path = gs_backend
-    url = https://github.com/McGillRocketTeam/groundstation-backend-2025
+	path = groundstation-backend-2025
+	url = https://github.com/McGillRocketTeam/groundstation-backend-2025
 [submodule "groundstation-frontend-v3"]
 	path = groundstation-frontend-v3
 	url = https://github.com/McGillRocketTeam/groundstation-frontend-v3
